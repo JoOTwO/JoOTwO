@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Joowon Kim
 
-<!--
-**JoOTwO/JoOTwO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Aerospace Engineering Student**
+📍 Inha University (Republic of Korea)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* ✈️ Aerospace Engineering undergraduate (Entering 3rd year)
+* 🎯 Interested in **Guidance, Navigation, and Control (GNC)**
+
+---
+
+## 🧠 Research Interests
+
+* Guidance, Navigation, and Control (GNC)
+* Missile Guidance & Control
+* Optimal Control & Trajectory Optimization
+* Robust Control 
+* Machine Learning / Deep Learning / AI (upcoming)
+  
+---
+
+## 📊 Current Projects
+
+* 🛸 Quadrotor drone simulation (with realistic dynamics)
+* 🎮 Attitude stabilization & recovery control
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/JoOTwO
+
+---
