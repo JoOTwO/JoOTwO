@@ -15,7 +15,6 @@
 
 ## 🧠 Research Interests
 
-* Guidance, Navigation, and Control (GNC)
 * Missile Guidance & Control
 * Optimal Control & Trajectory Optimization
 * Robust Control 
