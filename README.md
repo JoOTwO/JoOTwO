@@ -1,8 +1,8 @@
 # Joowon Kim
 
 🎓 **Aerospace Engineering Student**
-📍 Inha University, Republic of Korea
 
+📍 Inha University, Republic of Korea
 ---
 
 ## 🚀 About Me
