@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joowon Kim
+# Joowon Kim
 
 🎓 **Aerospace Engineering Student**
 
