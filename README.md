@@ -1,36 +1,33 @@
 # 👋 Hi, I'm Joowon Kim
 
 🎓 **Aerospace Engineering Student**
-
-📍 Inha University (Republic of Korea)
+📍 Inha University, Republic of Korea
 
 ---
 
 ## 🚀 About Me
 
-* ✈️ Aerospace Engineering undergraduate (Entering 3rd year)
+* ✈️ Aerospace Engineering undergraduate student
 * 🎯 Interested in **Guidance, Navigation, and Control (GNC)**
 
 ---
 
 ## 🧠 Research Interests
 
-* Missile Guidance & Control
-* Optimal Control & Trajectory Optimization
-* Robust Control 
-* Machine Learning / Deep Learning / AI (upcoming)
-  
+* Entry, Descent, and Landing (EDL)
+* Powered Descent Guidance
+* Optimal Guidance and Control
+* Trajectory Optimization
+* Machine Learning for Guidance and Control
+
 ---
 
 ## 📊 Current Projects
 
-* 🛸 Quadrotor drone simulation (with realistic dynamics)
-* 🎮 Attitude stabilization & recovery control
+* 🧭 Optimal control and convex optimization studies
 
 ---
 
 ## 📫 Contact
 
 * GitHub: https://github.com/JoOTwO
-
----
