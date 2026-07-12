@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Joowon Kim
 
 🎓 **Aerospace Engineering Student**
+
 📍 Inha University, Republic of Korea
 
 ---
