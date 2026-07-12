@@ -3,6 +3,7 @@
 🎓 **Aerospace Engineering Student**
 
 📍 Inha University, Republic of Korea
+
 ---
 
 ## 🚀 About Me
